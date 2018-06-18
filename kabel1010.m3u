@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1,--- | by Kabelvision | ----
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:1,GTV SYUKOI
+https://cdn-livetv2.metube.id/hls/globaltv_480/index.m3u8
+#EXTINF:1,MNCTV SYUKOI
+https://cdn-livetv1.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:1,INEWSTV SYUKOI
+https://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:1,INDOSIAR SYUKOI
+https://cdn-livetv1.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:1,TRANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+#EXTINF:1,TRAN 7 SYUKOI
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+#EXTINF:1,METROTV SYUKOI
+https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+#EXTINF:1,ANTV SYUKOI
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+#EXTINF:1,TVOON SYUKOI
+https://cdn-livetv1.metube.id/hls/tvone_480/index.m3u8
+#EXTINF:1,MNC NEWS SYUKOI
+https://cdn-livetv1.metube.id/hls/mncnews_480/index.m3u8
+#EXTINF:1,TVRI SYUKOI
+https://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:1,UseeTvsport syukoi
+http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:1,NET_HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:1,TRANSTV_HD
+http://dmlive.vo.llnwd.net/34/dm/3/x4nwi47/live-3.m3u8
+#EXTINF:1,RTV
+http://api.useetv.com/telin/live/af82c106fc14/index.m3u8
+#EXTINF:1,RTV_2
+http://rr2.dens.tv/s/s12/index1.m3u8
+#EXTINF:1,KOMPASTV
+http://stream-03.sg1.dailymotion.com/37/dm/3/x54ozbu/live-2.m3u8
+#EXTINF:1,INEWS222
+http://cdn-livetv2.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:1,CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:1,BERITA_SATU_SD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+#EXTINF:1,TVRI_NASIONAL_BANDUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJabarbandung)/index.m3u8
+#EXTINF:1,TVRI_SPORTS_(360p)
+http://rr2.dens.tv/s/s48/index1.m3u8
+#EXTINF:1,TVRI_SPORTS_(480p)
+http://rr2.dens.tv/s/s48/index2.m3u8
+#EXTINF:1,TVRI_NASIONAL
+http://cdn-livetv2.metube.id/hls/tvri_480/index.m3u8
+#EXTINF:1,TVRI_NASIONAL_2
+http://cdn-livetv2.metube.id/hls/tvri.m3u8
+#EXTINF:1,Kids_Diamond
+http://119.235.249.60:1935/kids/live/playlist.m3u8
+#EXTINF:1,Avava_Diamond
+http://119.235.249.60:1935/adti/live/playlist.m3u8
+#EXTINF:1,Gold_Diamond
+http://119.235.249.60:1935/gold/live/playlist.m3u8
+#EXTINF:1,Black_Diamond
+http://119.235.249.60:1935/bdti/live/playlist.m3u8
+#EXTINF:1,Avava_Bollywood_Diamond
+http://119.235.249.60:1935/abc/live/playlist.m3u8
+#EXTINF:1,Red_Diamond
+http://119.235.249.60:1935/red/live/playlist.m3u8
+#EXTINF:1,Diamond_Earth
+http://119.235.249.60:1935/earth/live/playlist.m3u8
+#EXTINF:1,DAITV
+http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+
+
+#EXTINF:1,SYUKOI SPORT ----SONY TEN 1 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:1,SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:1,SONY TEN 2 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:1,SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:1,SONY TEN 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:1,SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:1,SONY ESPN SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:1,SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:1,SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:1,SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:1,THAI TV5 HD1
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/5hd.smil/chunklist.m3u8
+#EXTINF:1,TRUE 4U | 24
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/true4u.smil/chunklist.m3u8
+#EXTINF:1,AMARIN TV HD 34
+http://fwfreetv-bl1.dyndns.tv:1936/freelive-edge/_definst_/amarinhd.smil/chunklist.m3u8
+
+#EXTINF:-1,Sony Espn HD
+http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8
+#EXTINF:-1,Sony Ten 1
+http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:-1,Sony ten 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8
+#EXTINF:-1,SONY ESPN
+http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8
+#EXTINF:-1,SONY TEN1 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8
+#EXTINF:-1,SONY TEN2 SD
+http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:0,(IN) SONY TEN 1 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8
+#EXTINF:0,(IN) SONY TEN 1 HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225875/index.m3u8
+#EXTINF:0,(IN) SONY TEN 2 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8
+#EXTINF:0,(IN) SONY TEN 2 HD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:0,(IN) SONY TEN 3 SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8
+#EXTINF:0,(IN) SONY TEN 3 HD
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:0,(IN) SONY ESPN SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
+#EXTINF:0,(IN) SONY ESPN HD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226076/index.m3u8
+#EXTINF:0,(IN) SONY SIX SD
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
+#EXTINF:0,(IN) SONY SIX HD
+http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1,Sony ESPN
+http://139.59.74.143/j/Sony_ESPN_SD.m3u8
+#EXTINF:-1,Sony ESPN HD
+http://139.59.74.143/j/Sony_ESPN_HD.m3u8
+#EXTINF:-1,Sony Le PLEX HD
+http://139.59.74.143/j/Sony_Le_PLEX_HD.m3u8
+#EXTINF:-1,Sony Pix HD
+http://139.59.74.143/j/Sony_Pix_HD.m3u8
+#EXTINF:-1,Sony Six (Hindi)
+http://139.59.74.143/j/Sony_Six_SD.m3u8
+#EXTINF:-1,Sony Six HD
+http://139.59.74.143/j/Six_HD.m3u8
+#EXTINF:-1,Sony Ten 1
+http://139.59.74.143/j/Ten_1.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://139.59.74.143/j/Ten_HD.m3u8
+#EXTINF:-1,Sony Ten 2
+http://139.59.74.143/j/Ten_2.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://139.59.74.143/j/Ten2_HD.m3u8
+#EXTINF:-1,Sony Ten 3
+http://139.59.74.143/j/Ten_3.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://139.59.74.143/j/Ten3_HD.m3u8
+#EXTINF:-1,Sony Ten Golf HD
+http://139.59.74.143/j/Ten_Golf_HD.m3u8
+#EXTINF:-1,Star Sports HD 1
+http://139.59.74.143/j/Star_Sports_HD_1.m3u8
+#EXTINF:-1,Star Sports HD 2
+http://139.59.74.143/j/Star_Sports_HD_2.m3u8
+#EXTINF:-1,Star Sports Select HD 1
+http://139.59.74.143/j/Star_Sports_Select_HD_1.m3u8
+#EXTINF:-1,Star Sports Select HD 2
+http://139.59.74.143/j/Star_Sports_Select_HD_2.m3u8
+#EXTINF:-1,----------- | SPORT PLUS GRUP IROEL | -----------
+#EXTINF:1,BT SPORTS ESPN
+http://sport7.pw/lba/NWQ4OGRiYzA3NzFlMWUxOWU0NDU5YWYyMTZiZmIzNmI=/g6/btsportespn.m3u8
+
+
